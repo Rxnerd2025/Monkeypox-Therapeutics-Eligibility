@@ -1,2 +1,2 @@
 # Monkeypox-Therapeutics-Eligibility
-Online tool regarding eligibility for treatment
+Online tool regarding eligibility for therapeutic treatment
